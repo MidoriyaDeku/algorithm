@@ -1,4 +1,4 @@
-var sort = {
+﻿var sort = {
     bubbleSort: bubbleSort,         // 冒泡排序
     selectionSort: selectionSort,   // 直接选择排序
     insertSort: insertSort,         // 直接插入排序
@@ -261,5 +261,5 @@ function mergeSortIteration(arr) {
 }
 
 /*============================================================*/
-
+let test = null;
 module.exports = sort;
