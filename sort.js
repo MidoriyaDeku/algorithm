@@ -261,5 +261,5 @@ function mergeSortIteration(arr) {
 }
 
 /*============================================================*/
-let test = null;
+
 module.exports = sort;
