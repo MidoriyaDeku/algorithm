@@ -6,7 +6,7 @@
     heapSort: heapSort,             // 堆排序
     quickSort: quickSort,           // 快速排序
     mergeSortRecursion: mergeSortRecursion, // 归并排序（递归实现）
-    mergeSortIteration: mergeSortIteration, // 归并排序（迭代实现）
+    mergeSortIteration: mergeSortIteration, // 归并排序（迭代实现）T
 };
 
 // 冒泡排序
